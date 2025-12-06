@@ -1,0 +1,4 @@
+customtkinter
+pandas
+matplotlib
+# pip install -r requirements.txt (프로그램 실행할때 이 명령어 입력: 실행시 필요한 라이브러리 설치용 명령어)
